@@ -21,6 +21,7 @@
     "bootstrap": "^5.2.2",
     "normalize.css": "^8.0.1",
     "rxjs": "~7.5.0",
+    "startbootstrap-grayscale": "^7.0.5",
     "three.js": "^0.77.1",
     "tslib": "^2.3.0",
     "vanta": "^0.5.24",

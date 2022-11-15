@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'form',
+  selector: 'portfolio-form',
   templateUrl: './form.component.html',
   styleUrls: ['./form.component.scss']
 })

@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'other-project',
+  selector: 'portfolio-other-project',
   templateUrl: './other-project.component.html',
   styleUrls: ['./other-project.component.scss']
 })
