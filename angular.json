@@ -28,7 +28,8 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              { "glob": "**/*", "input": "node_modules/ng2-pdfjs-viewer/pdfjs", "output": "/assets/pdfjs" }
             ],
             "styles": [
               "src/styles.scss",
@@ -36,9 +37,6 @@
               "node_modules/startbootstrap-grayscale/dist/css/styles.css"
             ],
             "scripts": [
-              "./src/app/scripts/three.min.js",
-              "./src/app/scripts/vanta.birds.min.js",
-              "./src/app/scripts/vanta.clouds.min.js",
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
               "node_modules/startbootstrap-grayscale/dist/js/scripts.js"
             ]
